@@ -19,7 +19,7 @@ A Node.js Express server that interacts with a SQL database to store info about 
 
 ## Preview
 
-[todo]
+View the [demo video](https://drive.google.com/file/d/1VbCiEiS4S2HROdZTW5g_HKSIWt7GDVio/view)
 
 ## Author
 
